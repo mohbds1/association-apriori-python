@@ -1,6 +1,6 @@
-# Apriori Association Python [![License](http://www.apache.org/licenses/LICENSE-2.0)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://python.org)
+# Apriori Association Python [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://python.org)
 
-Practical implementation of Apriori algorithm for association rule mining in Python. Perfect for learning and experimentation!
+An efficient, pure Python, and practical implementation of Apriori algorithm for association rule mining in Python. Perfect for learning and experimentation!
 
 ## Features
 - 🧠 Complete Apriori algorithm implementation
@@ -14,7 +14,6 @@ git clone https://github.com/mohbds1/apriori-association-python
 cd apriori-association-python
 pip install -r requirements.txt
 jupyter notebook apriori_demo.ipynb
-An efficient pure Python implementation of the Apriori algorithm.
 ```
 
 The apriori algorithm uncovers hidden structures in categorical data.
