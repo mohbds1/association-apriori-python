@@ -1,0 +1,9 @@
+# Core packages
+mlxtend
+pandas
+plotly
+numpy
+
+# Jupyter support (optional)
+jupyter
+ipywidgets
