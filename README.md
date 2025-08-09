@@ -1,4 +1,4 @@
-# Complete & Efficient-Apriori ![Build Status](https://github.com/tommyod/Efficient-Apriori/workflows/Python%20CI/badge.svg?branch=master)(https://badge.fury.io/py/efficient-apriori.svg)](https://pypi.org/project/efficient-apriori/) [![Documentation Status](https://readthedocs.org/projects/efficient-apriori/badge/?version=latest)](https://efficient-apriori.readthedocs.io/en/latest/?badge=latest)
+# Efficient-Apriori ![Build Status](https://github.com/mohbds1/apriori-association-python/workflows/Python%20CI/badge.svg?branch=master) [![PyPI version](https://badge.fury.io/py/apriori.svg)](https://pypi.org/project/apriori-association-python/) [![Documentation Status](https://readthedocs.org/projects/apriori-association-python/badge/?version=latest)](https://apriori-association-python.readthedocs.io/en/latest/?badge=latest) [![Downloads](https://pepy.tech/badge/apriori-association-python)](https://pepy.tech/project/apriori-association-python) [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 An efficient pure Python implementation of the Apriori algorithm.
 
