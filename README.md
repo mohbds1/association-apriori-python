@@ -1,4 +1,4 @@
-# Apriori Association Python [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://python.org)
+# Apriori Association Python [![License]( http://www.apache.org/licenses/LICENSE-2.0)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://python.org)
 
 Practical implementation of Apriori algorithm for association rule mining in Python. Perfect for learning and experimentation!
 
