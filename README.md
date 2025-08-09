@@ -1,7 +1,21 @@
-[![PyPI version](https://img.shields.io/pypi/v/ar-apriori?color=8b21a0&label=PyPI%20الإصدار)](https://pypi.org/project/ar-apriori/)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://python.org)
+# Apriori Association Python [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://python.org)
 
+Practical implementation of Apriori algorithm for association rule mining in Python. Perfect for learning and experimentation!
+
+## Features
+- 🧠 Complete Apriori algorithm implementation
+- 🛒 Market basket analysis examples
+- 📝 Jupyter notebook tutorials
+- 📁 Sample datasets included
+
+## Quick Start
+```bash
+git clone https://github.com/mohbds1/apriori-association-python
+cd apriori-association-python
+pip install -r requirements.txt
+jupyter notebook apriori_demo.ipynb
 An efficient pure Python implementation of the Apriori algorithm.
+```
 
 The apriori algorithm uncovers hidden structures in categorical data.
 The classical example is a database containing purchases from a supermarket.
