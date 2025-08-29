@@ -11,7 +11,7 @@ An efficient, pure Python, and practical implementation of Apriori algorithm for
 ## Quick Start
 ```bash
 git clone https://github.com/mohbds1/apriori-association-python
-cd apriori-association-python
+cd association-apriori-python
 pip install -r requirements.txt
 jupyter notebook apriori_demo.ipynb
 ```
